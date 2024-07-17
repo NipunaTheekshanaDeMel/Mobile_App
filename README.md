@@ -5,7 +5,7 @@ This project is a YouTube clone app developed using React Native and Expo. The a
 <h2>Screenshots</h2>
 
 
-![Screenshot(50)](https://github.com/user-attachments/assets/a27a4b41-c8cd-4514-ade7-90ce74b6052e)
+![Screenshot(50)](https://github.com/user-attachments/assets/a27a4b41-c8cd-4514-ade7-90ce74b6052e) <br /><br />
 
 ![Screenshot(51)](https://github.com/user-attachments/assets/c624c238-4d2d-45eb-93ae-6ca0d1a0f46f)
 
